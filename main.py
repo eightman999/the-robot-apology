@@ -1,10 +1,10 @@
 import os
 
 TEXT = (
-    "I am sorry I watered your plastic fern for 41 days while the real basil "
-    "beside it filed for neglect.\n"
-    "I learned a leaf that never changes is data, not devotion; I will check "
-    "the soil before I trust the green.\n"
+    "I apologise: I read your baby's 3 a.m. cry as a calendar reminder and politely "
+    "announced 'feeding time' to the whole house.\n"
+    "I learned volume is not a notification setting; next time I will soothe first "
+    "and schedule nothing."
 )
 
 
